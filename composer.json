@@ -1,0 +1,12 @@
+{
+    "name": "yuriy2056757/ratchet",
+    "type": "project",
+    "autoload": {
+      "psr-4": {
+        "MyApp\\": "src"
+      }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    }
+}
